@@ -1,0 +1,50 @@
+_repo: Many-furrows_74243
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gardiner, A. G. (Alfred George)
+    aliases:
+    - Gardiner, Alfred George
+    - Alpha of the plough
+    - plough, Alpha of the
+    birthdate: 1865
+    deathdate: 1946
+    gutenberg_agent_id: '3629'
+    url: http://www.gutenberg.org/2009/agents/3629
+    wikipedia: https://en.wikipedia.org/wiki/Alfred_George_Gardiner
+description: ''
+gutenberg_issued: '2024-08-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74243'
+language: en
+pgterms:marc905: 20240808092218author
+pgterms:marc906: '1924'
+pgterms:marc907: GB
+production_note: Al Haines
+publication_note: '  $aLondon :$bJ. M. Dent & Sons Ltd., $c1924, pubdate 1927.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English essays -- 20th century'
+- !lcc 'PR'
+- GITenberg
+tableOfContents: 'Dream journeys -- On coming home -- A log fire -- On saying "please"
+  -- Billitch at Lord''s -- On shop windows -- A day with the bees -- On shaking hands
+  -- On a finger-post -- The open window -- On an unposted letter -- A note on dress
+  -- Farewell to Hampstead -- On plagiarism -- The case of Dean Inge -- A tale of
+  Fleet Street -- On the top note -- Tea and Mr. Bennett -- On buying and selling
+  -- On big words -- Do we buy books? -- Other people''s jobs -- Why I don''t know
+  -- On anti-climax -- The unknown warrior -- Naming the baby -- The cult of the knife
+  and fork -- A soliloquy in a garden -- A night''s lodging -- Those people next door
+  -- How we spend our time -- A sentence of death -- On an elderly person -- Taming
+  the bear -- Ourselves and others -- An offer of £10,000 -- In a lumber-room -- Our
+  neighbour the moon -- On smiles -- When in Rome... -- The jests of chance -- In
+  defence of "skipping" -- An old English town -- On people with one idea -- To an
+  unknown artist -- On living for ever -- On initials -- Planting a spinney -- On
+  wearing an eyeglass -- A man and his watch -- Youth and old age -- The golden age
+  -- The top of the ladder -- On faces: past and present -- In praise of maiden aunts
+  -- October days.'
+title: Many furrows
+url: http://www.gutenberg.org/ebooks/74243
